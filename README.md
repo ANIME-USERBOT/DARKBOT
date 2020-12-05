@@ -5,11 +5,11 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/kraken_the_badass)
 
 
-# LEGEND BOT
+# DARK BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https://t.me/LEGENDX22) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
-[![LEGEND BOT logo](https://telegra.ph/file/97579e24481db3c11962b.jpg)](https://t.me/hellbot_official)
+This is the one and only official LEGEND BOT Userbot made by [@lelouch2op](https://t.me/lelouch2op) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
+[![LEGEND BOT logo](https://telegra.ph/file/97579e24481db3c11962b.jpg)](https://t.me/legendx22)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -23,7 +23,7 @@ This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https:
 
 ### The Easy Way
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FLEGEND-BOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FLEGEND-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FANIME-USERBOT%2DARKBOT&template=https%3A%2F%2Fgithub.com%2FANIME-USERBOT%2FDARKBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 # Credits👀
 ### • [JaaduBot](https://github.com/Amberyt/JaaduBot)
