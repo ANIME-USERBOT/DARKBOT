@@ -16,7 +16,7 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "in this case, Updater is unable to identify the branch to be updated."
     "please check out to an official branch, and re-start the updater."
 )
-OFFICIAL_UPSTREAM_REPO = "https://github.com/ANIME-USERBOT/DARKBOT"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/LEGENDX22/LEGEND-BOT"
 BOT_IS_UP_TO_DATE = "❂LegendBOT is up-to-date!❂"
 NEW_BOT_UP_DATE_FOUND = (
     "**DARK BOT  Update Found For** {branch_name}\n"
