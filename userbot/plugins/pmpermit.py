@@ -5,13 +5,16 @@ import os
 from telethon import events, functions
 from telethon.tl.functions.users import GetFullUserRequest
 
-import WhiteEyeUserBot.modules.sql_helper.pmpermit_sql as pmpermit_sql
-from WhiteEyeUserBot import ALIVE_NAME, CUSTOM_PMPERMIT
-from WhiteEyeUserBot.Configs import Config
+
+
+import userbot.plugins.sql_helper.pmpermit_sql as pmpermit_sql
+from userbot import ALIVE_NAME, CUSTOM_PMPERMIT
+from userbot.utils import admin_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
-if PMPERMIT_PIC is None:
-    WARN_PIC = "https://telegra.ph/file/63d2f8bcdae4da2ec5e7e.jpg"
+    if PMPERMIT_PIC
+else:
+    else "https://telegra.ph/file/5bc351a97fc65dbdfdf32.jpg
 else:
     WARN_PIC = PMPERMIT_PIC
 
