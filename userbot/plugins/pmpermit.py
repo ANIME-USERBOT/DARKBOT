@@ -12,9 +12,8 @@ from userbot import ALIVE_NAME, CUSTOM_PMPERMIT
 from userbot.utils import admin_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
-    if PMPERMIT_PIC
-else:
-    else "https://telegra.ph/file/5bc351a97fc65dbdfdf32.jpg
+if PMPERMIT_PIC is None:
+    WARN_PIC = "https://telegra.ph/file/63d2f8bcdae4da2ec5e7e.jpg"
 else:
     WARN_PIC = PMPERMIT_PIC
 
