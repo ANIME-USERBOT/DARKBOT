@@ -11,7 +11,7 @@ if PMPERMIT_PIC is None:
     WARN_PIC = "https://telegra.ph/file/63d2f8bcdae4da2ec5e7e.jpg"
 else:
     WARN_PIC = PMPERMIT_PIC
-LOG_CHAT = Config.PRIVATE_GROUP_ID
+LOG_CHAT = uniborgConfig.PRIVATE_GROUP_BOT_API_ID 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WhiteEye"
 if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
 
