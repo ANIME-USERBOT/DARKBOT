@@ -1,5 +1,6 @@
 from sqlalchemy import Column, String
-from userbot.plugins.sql_helper import SESSION, BASE
+
+from userbot.modules.sql_helper import BASE, SESSION
 
 
 class PMPermit(BASE):
