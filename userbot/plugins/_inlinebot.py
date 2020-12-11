@@ -3,7 +3,7 @@ import re
 from math import ceil
 
 from telethon import Button, custom, events, functions
-
+from uniborgConfig import Configs
 from userbot import ALIVE_NAME, CMD_HELP, CMD_LIST
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
