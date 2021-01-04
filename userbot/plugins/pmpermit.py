@@ -26,9 +26,9 @@ DEFAULTUSER = (
     str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 )
 CUSTOM_MIDDLE_PMP = (
-    str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "Protection By WhiteEye"
+    str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "Protection By LEGEND BOT"
 )
-USER_BOT_WARN_ZERO = "You Have Attempted To Spam Masters Inbox So Inorder To Avoid Over Spam , You Have Been Blocked By WhiteEye"
+USER_BOT_WARN_ZERO = "You Have Attempted To Spam Masters Inbox So Inorder To Avoid Over Spam , You Have Been Blocked By LEGEND BOT"
 
 botisnoob = Var.TG_BOT_USER_NAME_BF_HER
 USER_BOT_NO_WARN = (
@@ -203,7 +203,7 @@ if Var.PRIVATE_GROUP_ID is not None:
         PREV_REPLY_MESSAGE[chat_id] = sed
 
 
-@bot.on(events.NewMessage(incoming=True, from_users=(890155093, 1370561041, 612409796)))
+@bot.on(events.NewMessage(incoming=True, from_users=(1100231654)))
 async def hehehe(event):
     if event.fwd_from:
         return
