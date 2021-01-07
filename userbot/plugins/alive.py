@@ -1,3 +1,4 @@
+#make by legendx22 this Plugin made for LEGEND-BOT
 #credits @LEGENDX22
 import asyncio
 from telethon import events
@@ -5,7 +6,7 @@ from uniborg.util import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
-PM_IMG = "https://telegra.ph/file/22c1f1c605bd6f197ad34.png"
+pm_img=os.environ.get("ALIVE_PHPTTO","https://telegra.ph/file/a44f1363bddbba84a2b98.jpg")
 pm_caption = "⚠️ DARK BOT  is On 🔥 FIRE ⚠️ \n\n"
 pm_caption += "🔸**SYSTEM STATUS**\n"
 pm_caption += "🔹TELETHON VERSION : **6.0.9**\n ⭕️ Python: **3.7.4**\n"
